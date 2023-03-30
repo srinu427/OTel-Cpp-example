@@ -1,7 +1,5 @@
 SHELL = /bin/sh
 
-OBJS =  main.o factorial.o hello.o
-CFLAG = -Wall -g
 CC = g++
 INCLUDES = -I./third-party/opentelemetry-cpp/sdk/include\
 	   -I./third-party/opentelemetry-cpp/exporters/ostream/include\
