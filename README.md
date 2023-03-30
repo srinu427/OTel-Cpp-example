@@ -27,6 +27,7 @@
   cmake --build . --target all
 ```
 
+## Building the example
   Once the opentelemetry libs are build we can build the example
 ```
   cd ../../..
